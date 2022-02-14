@@ -4,7 +4,12 @@ description: This resource contains information related to four levels of qualit
   four thought revolutions, and principles of leadership.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-760a-operations-management-spring-2002/927c9f96db9ad03763362d79d8310dcb_lecture11_mar1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture11_mar1.pdf
+type: OCWFile
 uid: 927c9f96-db9a-d037-6336-2d79d8310dcb
 ---

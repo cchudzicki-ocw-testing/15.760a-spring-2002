@@ -4,7 +4,12 @@ description: This resource contains information related to four levels of qualit
   four thoughts of revolution, and organizational management.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-760a-operations-management-spring-2002/49387e261bad0635dc7f561c13009c48_lecture12_mar4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture12_mar4.pdf
+type: OCWFile
 uid: 49387e26-1bad-0635-dc7f-561c13009c48
 ---
