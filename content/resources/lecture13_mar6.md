@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture13_mar6.pdf
-type: OCWFile
 uid: bbdfab4d-b9c5-f2d5-f945-941c82a2a556
 ---

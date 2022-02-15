@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture2_feb8.pdf
-type: OCWFile
 uid: 6228bd01-545d-a74f-70d3-948b29a5ce31
 ---

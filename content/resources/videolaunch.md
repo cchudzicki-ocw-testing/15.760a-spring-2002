@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: VideoLaunch.xls
-type: OCWFile
 uid: 5e1a807b-a223-25b9-840a-fc4fa76036a6
 ---

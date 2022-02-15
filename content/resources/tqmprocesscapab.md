@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: tqmprocesscapab.pdf
-type: OCWFile
 uid: 639572be-7af7-e1fd-6f8b-cc139d55e889
 ---
