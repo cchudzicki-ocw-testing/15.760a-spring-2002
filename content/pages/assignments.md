@@ -65,7 +65,7 @@ Go through the two readings & the Dreamcast case.
 
 3. Should the release of Dreamcast occur on the originally planned date? Use decision tree analysis to support your advice.  
   
-4. In the Assignment folder on the server, you will find an Excel file with data for a fictitious video game platform project. Answer the first three questions in the file. Filename: VideoLaunch.xls ({{< resource_link 5e1a807b-a223-25b9-840a-fc4fa76036a6 "XLS" >}})
+4. In the Assignment folder on the server, you will find an Excel file with data for a fictitious video game platform project. Answer the first three questions in the file. Filename: VideoLaunch.xls ({{% resource_link 5e1a807b-a223-25b9-840a-fc4fa76036a6 "XLS" %}})
 
 
 {{< tdclose >}}
