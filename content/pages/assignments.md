@@ -27,8 +27,6 @@ Operations Overview
 
 What are the key differences in the way Nokia and Ericsson handled the crisis prompted by the Albuquerque plant fire?
 
-Test
-
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
