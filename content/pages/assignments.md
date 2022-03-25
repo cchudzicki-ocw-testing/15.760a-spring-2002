@@ -372,7 +372,7 @@ In preparing the three written case analyses, please adhere to the following gui
 5. Written assignments must be less than 1500 words in length, accompanied by up to 6 supporting exhibits. This is a firm constraint.
 6. Exhibits should contain specific types of analysis, such as financial analysis, break-even charts, cost analysis, process-flow analysis, etc. Exhibits should contain any relevant supporting information that is too detailed for the body of the paper. Exhibits must not be simply an extension of the text. We will not distribute written solutions to the write-ups, but rather will rely on the class session associated with the case to bring out the most important issues.
 
-The case write-ups will be graded using the following criteria (a version of these criteria will accompany your graded assignments):
+The case write-ups are graded using the following criteria (a version of these criteria will accompany your graded assignments):
 
 **Analysis**
 
